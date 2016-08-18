@@ -4,4 +4,6 @@ An example 3D midi player visualization using [Three.js](https://github.com/mrdo
 
 ### Usage ###
 
-Load index.html in Google Chrome or Firefox
+Load index.html in Google Chrome or Firefox.
+
+Click the Start button to play the midi file.
